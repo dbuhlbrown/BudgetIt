@@ -7,7 +7,7 @@ class Categories:
 		self.ID = ""
 		self.name = ""
 
-
+		
 	def set_values(self, ID, name):
 		
 		self.ID = ID

@@ -7,7 +7,8 @@ class BudgetProgram:
 
 	def __init__(self):
 
-		self.databaseHelper = databaseHelper( )
+		self.databaseHelper = databaseHelper("budget.db")
+
 
 
 
